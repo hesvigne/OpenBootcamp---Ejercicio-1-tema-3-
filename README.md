@@ -19,7 +19,7 @@ public class ejercicioFunciones {
 		System.out.println(resultado);
 	}
 }
-//Segunda parte
+	//Segunda parte
 	class Coche {
 	int numPuertas;
 	public void incrementarPuertas() {
